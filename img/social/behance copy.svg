@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="61px" viewBox="0 0 71 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>social/behance copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.9%" y="-4.6%" width="105.8%" height="109.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile-card-khaoula" transform="translate(-745.000000, -802.000000)" fill="#2D354C">
+            <g id="card-copy" filter="url(#filter-1)" transform="translate(145.000000, 147.000000)">
+                <g id="social-media" transform="translate(368.076285, 658.524804)">
+                    <g id="social/mail" transform="translate(243.159204, 0.000000)">
+                        <path d="M39.4871019,9.23076923 L8.51300437,9.23076923 C5.85489301,9.23076923 3.69230769,11.3075782 3.69230769,13.8602494 L3.69230769,35.449645 C3.69230769,38.0023162 5.85489301,40.0791252 8.51300437,40.0791252 L39.4871019,40.0791252 C42.1452133,40.0791252 44.3076923,38.0023162 44.3076923,35.449645 L44.3076923,13.8602494 C44.3076923,11.3075782 42.1452133,9.23076923 39.4871019,9.23076923 Z M39.4871019,35.9920451 L8.51300437,35.9920451 C8.12228071,35.9920451 7.77960033,35.7386487 7.77960033,35.449645 L7.77960033,16.7151044 L21.7883616,28.5420418 C22.0755584,28.7845966 22.4407724,28.9180974 22.816828,28.9180974 L25.1827469,28.9182037 C25.5585899,28.9182037 25.9240164,28.7845966 26.2113195,28.5420418 L40.2207185,16.7146792 L40.2207185,35.4498576 C40.2207185,35.7386487 39.8777193,35.9920451 39.4871019,35.9920451 Z M24.0000531,24.8599283 L10.3747877,13.3178493 L37.6253185,13.3178493 L24.0000531,24.8599283 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

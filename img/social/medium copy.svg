@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="63px" viewBox="0 0 67 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>social/medium copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.9%" y="-4.6%" width="105.8%" height="109.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile-card-khaoula" transform="translate(-870.000000, -800.000000)" fill="#2D354C">
+            <g id="card-copy" filter="url(#filter-1)" transform="translate(145.000000, 147.000000)">
+                <g id="social-media" transform="translate(368.076285, 658.524804)">
+                    <g id="social/medium" transform="translate(366.169154, 0.000000)">
+                        <path d="M8.50851692,14.3316185 C8.55897231,13.8330462 8.36883692,13.3402523 7.99656,13.0046954 L4.20426646,8.43629538 L4.20426646,7.75386462 L15.9793108,7.75386462 L25.0807385,27.7146462 L33.0825231,7.75386462 L44.3076923,7.75386462 L44.3076923,8.43629538 L41.0652923,11.5450892 C40.7857846,11.7581538 40.6471385,12.1083692 40.7051077,12.4549662 L40.7051077,35.2969846 C40.6471385,35.6436923 40.7857846,35.9939077 41.0652923,36.2069538 L44.2318154,39.3156923 L44.2318154,39.9982154 L28.3043077,39.9982154 L28.3043077,39.3156923 L31.5845538,36.1310769 C31.9068923,35.8089231 31.9068923,35.7140308 31.9068923,35.2212923 L31.9068923,16.758 L22.7865231,39.9223385 L21.5539754,39.9223385 L10.9355815,16.758 L10.9355815,32.2829538 C10.84704,32.9357538 11.0638154,33.5928 11.5233785,34.0648615 L15.7896923,39.2398154 L15.7896923,39.9223385 L3.69230769,39.9223385 L3.69230769,39.2398154 L7.95862154,34.0648615 C8.41484308,33.5920615 8.61897231,32.9305846 8.50851692,32.2829538 L8.50851692,14.3316185 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
